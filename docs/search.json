@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can find my CV here:\nDownload CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jaeyoung Yoon",
+    "section": "",
+    "text": "I am a mathematician working in dynamical systems, collective dynamics, kinetic equations, and related problems in applied analysis.\nI will join the Department of Mathematics at Konkuk University as a tenure-track faculty member in September 2026.\nMy research interests include:\n\nCollective dynamics\nDynamical systems on networks\nMathematical aspects of machine learning dynamics\nConsensus-based optimization\n\nFor my publications, see Publications."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Jaeyoung Yoon\nDepartment of Mathematics\nKonkuk University\nSeoul, Republic of Korea\nEmail: your-email@example.com\nGitHub: wodud1516"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Jaeyoung Yoon\nDepartment of Mathematics\nKonkuk University\nSeoul, Republic of Korea\nEmail: your-email@example.com\nGitHub: wodud1516"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mathematical Programming Practice\nTopics in Applied Mathematics\n\nMore details will be added later."
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mathematical Programming Practice\nTopics in Applied Mathematics\n\nMore details will be added later."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of dynamical systems, applied analysis, collective dynamics, and mathematical aspects of machine learning."
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research themes",
+    "text": "Research themes\n\nCollective dynamics and kinetic equations\nI study interacting particle systems, their mean-field limits, and emergent collective behavior.\n\n\nDynamical systems and networks\nI work on nonlinear dynamics on networks, including synchronization, bifurcation, and stability problems.\n\n\nMathematical aspects of machine learning dynamics\nI am interested in dynamical-systems approaches to models arising in machine learning, including attention mechanisms and related continuum limits.\n\n\nConsensus-based optimization\nI am interested in the mathematical analysis of consensus-based optimization methods, including convergence, stochastic effects, and infinite-dimensional formulations."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Title of the talk, Institution, Month Year."
+  },
+  {
+    "objectID": "talks.html#selected-talks",
+    "href": "talks.html#selected-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "Title of the talk, Institution, Month Year."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Jaeyoung Yoon, Title of the paper.\nJournal Name, volume, pages, year.\nJournal link / arXiv"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Jaeyoung Yoon, Title of the paper.\nJournal Name, volume, pages, year.\nJournal link / arXiv"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nJaeyoung Yoon, Title of the preprint.\narXiv preprint, year.\narXiv"
+  }
+]

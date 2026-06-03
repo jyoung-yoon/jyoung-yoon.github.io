@@ -1,0 +1,16 @@
+---
+title: "Jaeyoung Yoon"
+---
+
+I am a mathematician working in dynamical systems, collective dynamics, kinetic equations, and related problems in applied analysis.
+
+I will join the Department of Mathematics at Konkuk University as a tenure-track faculty member in September 2026.
+
+My research interests include:
+
+- Collective dynamics
+- Dynamical systems on networks
+- Mathematical aspects of machine learning dynamics
+- Consensus-based optimization
+
+For my publications, see [Publications](publications.qmd).

@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+## Publications
+
+1. **Jaeyoung Yoon**, Title of the paper.  
+   *Journal Name*, volume, pages, year.  
+   [Journal link](https://example.com) / [arXiv](https://arxiv.org)
+
+## Preprints
+
+1. **Jaeyoung Yoon**, Title of the preprint.  
+   arXiv preprint, year.  
+   [arXiv](https://arxiv.org)

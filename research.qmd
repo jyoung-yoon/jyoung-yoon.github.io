@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+My research lies at the intersection of dynamical systems, applied analysis, collective dynamics, and mathematical aspects of machine learning.
+
+## Research themes
+
+### Collective dynamics and kinetic equations
+
+I study interacting particle systems, their mean-field limits, and emergent collective behavior.
+
+### Dynamical systems and networks
+
+I work on nonlinear dynamics on networks, including synchronization, bifurcation, and stability problems.
+
+### Mathematical aspects of machine learning dynamics
+
+I am interested in dynamical-systems approaches to models arising in machine learning, including attention mechanisms and related continuum limits.
+
+### Consensus-based optimization
+
+I am interested in the mathematical analysis of consensus-based optimization methods, including convergence, stochastic effects, and infinite-dimensional formulations.

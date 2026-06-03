@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+---
+
+## Teaching
+
+### Konkuk University
+
+#### Fall 2026
+
+- Mathematical Programming Practice
+- Topics in Applied Mathematics
+
+More details will be added later.

@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+You can find my CV here:
+
+[Download CV](cv.pdf)
