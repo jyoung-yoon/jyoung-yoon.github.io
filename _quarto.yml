@@ -12,10 +12,10 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: talks.qmd
-        text: Talks
-      - href: teaching.qmd
-        text: Teaching
+      - href: travel.qmd
+        text: Travel
+      # - href: teaching.qmd
+      #   text: Teaching
       - href: cv.qmd
         text: CV
       - href: contact.qmd

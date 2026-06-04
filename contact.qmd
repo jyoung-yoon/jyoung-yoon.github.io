@@ -7,9 +7,7 @@ title: "Contact"
 **Jaeyoung Yoon**
 
 Department of Mathematics  
-Konkuk University  
-Seoul, Republic of Korea
+Technical University of Munich    
+Garching bei München 85748, Germany
 
-Email: your-email@example.com
-
-GitHub: [wodud1516](https://github.com/wodud1516)
+Email: wodud1516 [at] gmail [dot] com, jaeyoung [dot] yoon [at] tum [dot] de

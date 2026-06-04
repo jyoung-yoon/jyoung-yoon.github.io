@@ -2,14 +2,81 @@
 title: "Publications"
 ---
 
+## Preprints and Working Papers
+
+1. **Spectral Selection in Symmetric Self-Attention Dynamics** (with C. Kuehn).
+   Under review.
+   [arXiv](https://arxiv.org/abs/2604.26085){.arxiv-link}
+
+1. **Stochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces** (with S. Cerrai, Q. Li, and A. Nair).
+   Under review.
+   [arXiv](https://arxiv.org/abs/2604.10860){.arxiv-link}
+
+1. **Stability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation** (with C. Kuehn).
+   Under review.
+   [arXiv](https://arxiv.org/abs/2602.11981){.arxiv-link}
+
+1. **Existence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport** (with S.-Y. Ha, G. Hwang, and P. Thieullen).
+   Under review.
+   [arXiv](https://arxiv.org/abs/2602.19692){.arxiv-link}
+
+1. **Asymptotic Regimes of Self-Attention Dynamics** (with C. Kuehn).
+   Working paper.
+
+1. **Propagation in Random Space for Cucker--Smale Models: On the Role of Flocking and Random Batch Method** (with Z. Huang and Y. Wang).
+   Working paper.
+
 ## Publications
 
-1. **Jaeyoung Yoon**, Title of the paper.  
-   *Journal Name*, volume, pages, year.  
-   [Journal link](https://example.com) / [arXiv](https://arxiv.org)
+1. **CBO algorithm with average drift and applications to portfolio optimization** (with H.-O. Bae, S.-Y. Ha, C. Min, and J. Yoo).
+   *Journal of Computational and Applied Mathematics*, **485** (2026), 117535.
+   [Link](https://doi.org/10.1016/j.cam.2026.117535) [arXiv](https://doi.org/10.48550/arXiv.2602.19204){.arxiv-link}
 
-## Preprints
+1. **Adaptive Cucker-Smale Networks: Limiting Laplacian Time-Varying Dynamics** (with C. Kuehn).
+   To appear in *Nonlinear Analysis: Real World Applications*, **90** (2026), 104563.
+   [Link](https://doi.org/10.1016/j.nonrwa.2025.104563) [arXiv](https://doi.org/10.48550/arXiv.2506.06131){.arxiv-link}
 
-1. **Jaeyoung Yoon**, Title of the preprint.  
-   arXiv preprint, year.  
-   [arXiv](https://arxiv.org)
+1. **Emergence of partial tracking in the set of active pursuer-evader pairs in Euclidean space** (with H. Ahn, J. Byeon, and S.-Y. Ha).
+   *Automatica*, **179** (2025), 112445.
+   [Link](https://doi.org/10.1016/j.automatica.2025.112445)
+
+1. **Continuum limit and emergent behaviors of continuum Kuramoto model on Euclidean spaces** (with S.-Y. Ha, D. Ko, and W. Yoon).
+   *Journal of Mathematical Physics*, **66** (2025), 042704.
+   [Link](https://doi.org/10.1063/5.0256174)
+
+1. **Measure-valued death state and local sensitivity analysis for Winfree models with uncertain high-order couplings** (with M. Kang, S.-Y. Ha, and M. Zanella).
+   *Communications in Mathematical Sciences*, **23** (2025), 1583--1629.
+   [Link](https://dx.doi.org/10.4310/CMS.250607104645) [arXiv](https://doi.org/10.4310/CMS.250607104645){.arxiv-link}
+
+1. **Interplay of geometric constraint and bonding force in the emergent behaviors of relativistic Cucker-Smale flocks** (with H. Ahn, J. Byeon, and S.-Y. Ha).
+   *Advances in Differential Equations*, **30** (2025), 269--314.
+   [Link](https://dx.doi.org/10.57262/ade030-0506-269)
+
+1. **Consensus, error estimates and applications of first and second-order consensus-based optimization algorithms** (with J. Byeon, S.-Y. Ha, G. Hwang, and D. Ko).
+   *Mathematical Models and Methods in Applied Sciences*, **22** (2025), 345--401.
+   [Link](https://doi.org/10.1142/S0218202525400032)
+
+1. **Collective behaviors of second-order nonlinear consensus models with a bonding force** (with H. Ahn, J. Byeon, and S.-Y. Ha).
+   *Journal of the Korean Mathematical Society*, **61** (2024), 565--602.
+   [Link](https://doi.org/10.4134/JKMS.j230443) [arXiv](https://doi.org/10.48550/arXiv.2112.14875){.arxiv-link}
+
+1. **Asymptotic tracking of a point cloud moving on Riemannian manifolds** (with H. Ahn, J. Byeon, and S.-Y. Ha).
+   *SIAM Journal on Control and Optimization*, **61** (2023), 2379--2406.
+   [Link](https://doi.org/10.1137/22M1523078)
+
+1. **Asymptotic dynamics of the Winfree oscillators with singular interaction functions** (with S.-Y. Ha and D. Ko).
+    *Acta Applicandae Mathematicae*, **185** (2023).
+    [Link](https://doi.org/10.1007/s10440-023-00571-9) [arXiv](https://doi.org/10.48550/arXiv.2302.03179){.arxiv-link}
+
+1. **On the relativistic flocks over the unit sphere and the hyperboloid in a bonding force field** (with H. Ahn, J. Byeon, and S.-Y. Ha).
+    *Journal of Mathematical Physics*, **64** (2023).
+    [Link](https://doi.org/10.1063/5.0108837)
+
+1. **On the mathematical theory of behavioral swarms emerging collective dynamics** (with N. Bellomo, S.-Y. Ha, and N. Outada).
+    *Mathematical Models and Methods in Applied Sciences*, **32** (2022), 2927--2959.
+    [Link](https://dx.doi.org/10.1142/S0218202522500683)
+
+1. **An energy preserving discretization method for the thermodynamic Kuramoto model and collective behaviors** (with S.-Y. Ha and W. Shim).
+    *Communications in Mathematical Sciences*, **20** (2022), 495--521.
+    [Link](https://dx.doi.org/10.4310/CMS.2022.v20.n2.a9)
+

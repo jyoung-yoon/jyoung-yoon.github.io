@@ -1,0 +1,149 @@
+---
+title: "Travel"
+---
+
+Research visits, conferences, seminars, and invited talks.
+
+## 2026
+
+### Research stay, Bergische Universität Wuppertal
+
+Wuppertal, Germany. 10--13 August 2026.  
+Host: Prof. Claudia Totzeck.
+
+### Invited talk, Dynamics Days Europe 2026 [link](https://dde-2026.sci-meet.net/){.small-text}
+
+Lisbon, Portugal. 19--24 July 2026.
+
+### Invited talk, Equadiff 2026 [link](https://www.equadiff2026.cz/){.small-text}
+
+Prague, Czech Republic. 28 June--3 July 2026.
+
+### Research stay, Université de Bordeaux
+
+Bordeaux, France. 14--26 June 2026.  
+Host: Prof. Philippe Thieullen.
+
+### Scientific summit, Global Young Scientists Summit [link](https://gyss.nrf.gov.sg/){.small-text}
+
+Singapore. 5--9 January 2026.
+
+## 2025
+
+### Invited talk, Hanyang Analysis Seminar
+
+Seoul, Korea. 22 December 2025.
+
+### Research stay, Simons Laufer Mathematical Sciences Institute
+
+Berkeley, CA, United States of America. 19--29 October 2025.  
+Host: Prof. Qin Li.
+
+### Workshop, Kinetic Theory: Novel Statistical, Stochastic and Analytical Method [link](https://www.slmath.org/workshops/1152){.small-text}
+
+Berkeley, CA, United States of America. 20--24 October 2025.
+
+### Invited talk, ECCOMAS 8th Young Investigators Conference 2025 [link](https://yic2025.cimne.com/){.small-text}
+
+Pescara, Italy. 17--19 September 2025.
+
+### Invited talk, The 5th Korea--France Conference in Mathematics [link](https://www.math.u-bordeaux.fr/~pthieull/LIA/Events/2025/program_EDP_proba.html){.small-text}
+
+Bordeaux, France. 15--18 July 2025.
+
+### Invited talk, Dynamics Days Europe 2025 [link](https://websites.auth.gr/ddeu2025/){.small-text}
+
+Thessaloniki, Greece. 23--27 June 2025.
+
+### Invited talk, Hanyang Analysis Seminar
+
+Seoul, Korea. 14 April 2025.
+
+<details>
+<summary>2024</summary>
+
+* **Invited talk**, The 14th AIMS Conference at NYU Abu Dhabi, Abu Dhabi, United Arab Emirates, 16--20 December 2024.
+  [link](https://www.aimsconference.org/conferences/2024/index.html)
+
+* **Summer school**, Particle Interactive Systems: Analysis and Computational Methods, Simons Laufer Mathematical Sciences Institute, Berkeley, CA, United States, 17--28 June 2024.
+  [link](https://www.slmath.org/summer-schools/1035)
+
+* **Poster presentation**, Eleventh Bielefeld--SNU Joint Workshop in Mathematics, Seoul, Korea, 8--10 April 2024.
+  [link](http://irtg.math.snu.ac.kr/page_qIqd41)
+
+* **Workshop**, Shih-Hsien Fest on Hyperbolic Conservation Laws and Kinetic Theory, Seoul, Korea, 4--5 April 2024.
+  [link](http://hyke.snu.ac.kr/workshop/Shih-Hsien%20Yu/)
+
+* **Symposium**, Italo--Korean Symposium on "Advances in Kinetic Equations for Collective Phenomena and Related Models", Pavia, Italy, 19 February 2024.
+
+* **Research stay**, University of Pavia, Pavia, Italy, 14--25 February 2024.
+  [Host: Prof. Mattia Zanella.]{.small-text}
+
+* **Invited talk**, East Asia Core Doctoral Forum in Mathematics, Shanghai, China, 8--11 January 2024.
+  [link](https://math.fudan.edu.cn/d5/9a/c30300a644506/page.htm)
+
+</details>
+
+<details>
+<summary>2023</summary>
+
+* **Conference**, 2023 KSIAM Annual Meeting, Gwangju, Korea, 2--5 November 2023.
+  [link](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20230801&CpPage=#CONF)
+
+* **Contributed talk**, KMS Special Conference with 2022 Fields Medalists, Seoul, Korea, 26--28 October 2023.
+  [link](https://www.kms.or.kr/conference/2023_fall/)
+
+* **Conference**, The 4th Korea--France Conference on Mathematics, Seoul, Korea, 21--25 August 2023.
+  [link](https://sites.google.com/view/francekoreaconference4/home?authuser=0)
+
+* **Invited talk**, Workshop for Young Mathematicians in Korea (WYMK) 2023, Pohang, Korea, 7--9 August 2023.
+  [link](https://sites.google.com/view/wymk2023/%ED%99%88?authuser=0)
+
+* **Summer school**, PDE Summer School, Pohang, Korea, 2--6 August 2023.
+  [link](https://sites.google.com/view/postech-pdeschool2023)
+
+* **Research stay**, Bielefeld University, Bielefeld, Germany, 10 April--14 June 2023.
+  [IRTG Program. Host: Prof. Lubomir Banas.]{.small-text}
+
+* **Poster presentation**, Tenth Bielefeld--SNU Joint Workshop in Mathematics, Bielefeld, Germany, 21--24 February 2023.
+  [link](https://irtg.math.uni-bielefeld.de/workshop2023)
+
+* **Workshop**, Kinetic Equations in Korea (KEIK), Gangneung, Korea, 14--17 February 2023.
+  [link](https://keik.netlify.app/)
+
+</details>
+
+<details>
+<summary>2022</summary>
+
+* **Workshop**, Workshop for Young Mathematicians in Korea (WYMK) 2022, Daejeon, Korea, 3--4 December 2022.
+  [link](https://sites.google.com/view/wymk2022/%ED%99%88?authuser=0)
+
+* **Invited talk**, Kinetic and Hydrodynamic Descriptions in Collective Behavior, Granada, Spain, 7--9 November 2022.
+  [link](https://sites.google.com/view/kinetic-hydrodynamic)
+
+* **Invited talk**, HYKE Meeting 2022, Seoul, Korea, 29 August 2022.
+  [link](https://jinyeongpark.com/?p=224213)
+
+* **Workshop**, BI.discrete22: Numerics and Analysis of (Stochastic) Fluids, Bielefeld, Germany, 22--24 August 2022.
+  [link](https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/numerik/workshop/bi.discrete22/)
+
+* **Research stay**, Bielefeld University, Bielefeld, Germany, 19 June--28 August 2022.
+[IRTG Program. Host: Prof. Lubomir Banas.]{.small-text}
+
+* **Poster presentation**, Ninth Bielefeld--SNU Joint Workshop in Mathematics, 18--20 May 2022.
+[link](http://irtg.math.snu.ac.kr/IRTG_Workshop2022)
+
+</details>
+
+<details>
+<summary>2021</summary>
+
+* **Summer school**, Virtual Summer School on Kinetic and Fluid Equations for Collective Dynamics, Online, 23--26 August 2021.
+[link](https://www.math.u-bordeaux.fr/~pthieull/LIA/Events/2021/index.html)
+
+* **Workshop**, HY--PDE Workshop 2021, Online, 26--28 May 2021.
+[link](https://jinyeongpark.com/?p=224097)
+
+
+</details>

@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Jaeyoung Yoon",
     "section": "",
-    "text": "I am a mathematician working in dynamical systems, collective dynamics, kinetic equations, and related problems in applied analysis.\nI will join the Department of Mathematics at Konkuk University as a tenure-track faculty member in September 2026.\nMy research interests include:\n\nCollective dynamics\nDynamical systems on networks\nMathematical aspects of machine learning dynamics\nConsensus-based optimization\n\nFor my publications, see Publications."
+    "text": "Welcome to my webpage!\nI am a postdoctoral researcher at Technical University of Munich (TUM) in Germany since September 2024. I am studying in the research group “Multiscale and Stochastic Dynamics” led by Prof. Christian Kuehn.\nMy funding is based on Alexander von Humboldt fellowship (Sep 2024-Aug 2026)."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Jaeyoung Yoon\nDepartment of Mathematics\nKonkuk University\nSeoul, Republic of Korea\nEmail: your-email@example.com\nGitHub: wodud1516"
+    "text": "Jaeyoung Yoon\nDepartment of Mathematics\nTechnical University of Munich\nGarching bei München 85748, Germany\nEmail: wodud1516 [at] gmail [dot] com, jaeyoung [dot] yoon [at] tum [dot] de"
   },
   {
     "objectID": "contact.html#contact",
     "href": "contact.html#contact",
     "title": "Contact",
     "section": "",
-    "text": "Jaeyoung Yoon\nDepartment of Mathematics\nKonkuk University\nSeoul, Republic of Korea\nEmail: your-email@example.com\nGitHub: wodud1516"
+    "text": "Jaeyoung Yoon\nDepartment of Mathematics\nTechnical University of Munich\nGarching bei München 85748, Germany\nEmail: wodud1516 [at] gmail [dot] com, jaeyoung [dot] yoon [at] tum [dot] de"
   },
   {
     "objectID": "teaching.html",
@@ -74,14 +74,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Jaeyoung Yoon, Title of the paper.\nJournal Name, volume, pages, year.\nJournal link / arXiv"
+    "text": "Spectral Selection in Symmetric Self-Attention Dynamics (with C. Kuehn). Under review. arXiv\nStochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces (with S. Cerrai, Q. Li, and A. Nair). Under review. arXiv\nStability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation (with C. Kuehn). Under review. arXiv\nExistence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport (with S.-Y. Ha, G. Hwang, and P. Thieullen). Under review. arXiv\nAsymptotic Regimes of Self-Attention Dynamics (with C. Kuehn). Working paper.\nPropagation in Random Space for Cucker–Smale Models: On the Role of Flocking and Random Batch Method (with Z. Huang and Y. Wang). Working paper."
   },
   {
     "objectID": "publications.html#publications",
     "href": "publications.html#publications",
     "title": "Publications",
-    "section": "",
-    "text": "Jaeyoung Yoon, Title of the paper.\nJournal Name, volume, pages, year.\nJournal link / arXiv"
+    "section": "Publications",
+    "text": "Publications\n\nCBO algorithm with average drift and applications to portfolio optimization (with H.-O. Bae, S.-Y. Ha, C. Min, and J. Yoo). Journal of Computational and Applied Mathematics, 485 (2026), 117535. Link arXiv\nAdaptive Cucker-Smale Networks: Limiting Laplacian Time-Varying Dynamics (with C. Kuehn). To appear in Nonlinear Analysis: Real World Applications, 90 (2026), 104563. Link arXiv\nEmergence of partial tracking in the set of active pursuer-evader pairs in Euclidean space (with H. Ahn, J. Byeon, and S.-Y. Ha). Automatica, 179 (2025), 112445. Link\nContinuum limit and emergent behaviors of continuum Kuramoto model on Euclidean spaces (with S.-Y. Ha, D. Ko, and W. Yoon). Journal of Mathematical Physics, 66 (2025), 042704. Link\nMeasure-valued death state and local sensitivity analysis for Winfree models with uncertain high-order couplings (with M. Kang, S.-Y. Ha, and M. Zanella). Communications in Mathematical Sciences, 23 (2025), 1583–1629. Link arXiv\nInterplay of geometric constraint and bonding force in the emergent behaviors of relativistic Cucker-Smale flocks (with H. Ahn, J. Byeon, and S.-Y. Ha). Advances in Differential Equations, 30 (2025), 269–314. Link\nConsensus, error estimates and applications of first and second-order consensus-based optimization algorithms (with J. Byeon, S.-Y. Ha, G. Hwang, and D. Ko). Mathematical Models and Methods in Applied Sciences, 22 (2025), 345–401. Link\nCollective behaviors of second-order nonlinear consensus models with a bonding force (with H. Ahn, J. Byeon, and S.-Y. Ha). Journal of the Korean Mathematical Society, 61 (2024), 565–602. Link arXiv\nAsymptotic tracking of a point cloud moving on Riemannian manifolds (with H. Ahn, J. Byeon, and S.-Y. Ha). SIAM Journal on Control and Optimization, 61 (2023), 2379–2406. Link\nAsymptotic dynamics of the Winfree oscillators with singular interaction functions (with S.-Y. Ha and D. Ko). Acta Applicandae Mathematicae, 185 (2023). Link arXiv\nOn the relativistic flocks over the unit sphere and the hyperboloid in a bonding force field (with H. Ahn, J. Byeon, and S.-Y. Ha). Journal of Mathematical Physics, 64 (2023). Link\nOn the mathematical theory of behavioral swarms emerging collective dynamics (with N. Bellomo, S.-Y. Ha, and N. Outada). Mathematical Models and Methods in Applied Sciences, 32 (2022), 2927–2959. Link\nAn energy preserving discretization method for the thermodynamic Kuramoto model and collective behaviors (with S.-Y. Ha and W. Shim). Communications in Mathematical Sciences, 20 (2022), 495–521. Link"
   },
   {
     "objectID": "publications.html#preprints",
@@ -89,5 +89,61 @@
     "title": "Publications",
     "section": "Preprints",
     "text": "Preprints\n\nJaeyoung Yoon, Title of the preprint.\narXiv preprint, year.\narXiv"
+  },
+  {
+    "objectID": "publications.html#preprints-and-working-papers",
+    "href": "publications.html#preprints-and-working-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Spectral Selection in Symmetric Self-Attention Dynamics (with C. Kuehn). Under review. arXiv\nStochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces (with S. Cerrai, Q. Li, and A. Nair). Under review. arXiv\nStability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation (with C. Kuehn). Under review. arXiv\nExistence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport (with S.-Y. Ha, G. Hwang, and P. Thieullen). Under review. arXiv\nAsymptotic Regimes of Self-Attention Dynamics (with C. Kuehn). Working paper.\nPropagation in Random Space for Cucker–Smale Models: On the Role of Flocking and Random Batch Method (with Z. Huang and Y. Wang). Working paper."
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Travel",
+    "section": "",
+    "text": "Research visits, conferences, seminars, and invited talks."
+  },
+  {
+    "objectID": "travel.html#section",
+    "href": "travel.html#section",
+    "title": "Travel",
+    "section": "2026",
+    "text": "2026\n\nResearch stay, Bergische Universität Wuppertal\nWuppertal, Germany. 10–13 August 2026.\nHost: Prof. Claudia Totzeck.\n\n\nInvited talk, Dynamics Days Europe 2026 link\nLisbon, Portugal. 19–24 July 2026.\n\n\nInvited talk, Equadiff 2026 link\nPrague, Czech Republic. 28 June–3 July 2026.\n\n\nResearch stay, Université de Bordeaux\nBordeaux, France. 14–26 June 2026.\nHost: Prof. Philippe Thieullen.\n\n\nScientific summit, Global Young Scientists Summit link\nSingapore. 5–9 January 2026."
+  },
+  {
+    "objectID": "travel.html#section-1",
+    "href": "travel.html#section-1",
+    "title": "Travel",
+    "section": "2025",
+    "text": "2025\n\nInvited talk, Hanyang Analysis Seminar\nSeoul, Korea. 22 December 2025.\n\n\nResearch stay, Simons Laufer Mathematical Sciences Institute\nBerkeley, CA, United States of America. 19–29 October 2025.\nHost: Prof. Qin Li.\n\n\nWorkshop, Kinetic Theory: Novel Statistical, Stochastic and Analytical Method link\nBerkeley, CA, United States of America. 20–24 October 2025.\n\n\nInvited talk, ECCOMAS 8th Young Investigators Conference 2025 link\nPescara, Italy. 17–19 September 2025.\n\n\nInvited talk, The 5th Korea–France Conference in Mathematics link\nBordeaux, France. 15–18 July 2025.\n\n\nInvited talk, Dynamics Days Europe 2025 link\nThessaloniki, Greece. 23–27 June 2025.\n\n\nInvited talk, Hanyang Analysis Seminar\nSeoul, Korea. 14 April 2025.\n\n\n2024\n\n\nInvited talk, The 14th AIMS Conference at NYU Abu Dhabi, Abu Dhabi, United Arab Emirates, 16–20 December 2024. link\nSummer school, Particle Interactive Systems: Analysis and Computational Methods, Simons Laufer Mathematical Sciences Institute, Berkeley, CA, United States, 17–28 June 2024. link\nPoster presentation, Eleventh Bielefeld–SNU Joint Workshop in Mathematics, Seoul, Korea, 8–10 April 2024. link\nWorkshop, Shih-Hsien Fest on Hyperbolic Conservation Laws and Kinetic Theory, Seoul, Korea, 4–5 April 2024. link\nSymposium, Italo–Korean Symposium on “Advances in Kinetic Equations for Collective Phenomena and Related Models”, Pavia, Italy, 19 February 2024.\nResearch stay, University of Pavia, Pavia, Italy, 14–25 February 2024. Host: Prof. Mattia Zanella.\nInvited talk, East Asia Core Doctoral Forum in Mathematics, Shanghai, China, 8–11 January 2024. link\n\n\n\n\n2023\n\n\nConference, 2023 KSIAM Annual Meeting, Gwangju, Korea, 2–5 November 2023. link\nContributed talk, KMS Special Conference with 2022 Fields Medalists, Seoul, Korea, 26–28 October 2023. link\nConference, The 4th Korea–France Conference on Mathematics, Seoul, Korea, 21–25 August 2023. link\nInvited talk, Workshop for Young Mathematicians in Korea (WYMK) 2023, Pohang, Korea, 7–9 August 2023. link\nSummer school, PDE Summer School, Pohang, Korea, 2–6 August 2023. link\nResearch stay, Bielefeld University, Bielefeld, Germany, 10 April–14 June 2023. IRTG Program. Host: Prof. Lubomir Banas.\nPoster presentation, Tenth Bielefeld–SNU Joint Workshop in Mathematics, Bielefeld, Germany, 21–24 February 2023. link\nWorkshop, Kinetic Equations in Korea (KEIK), Gangneung, Korea, 14–17 February 2023. link\n\n\n\n\n2022\n\n\nWorkshop, Workshop for Young Mathematicians in Korea (WYMK) 2022, Daejeon, Korea, 3–4 December 2022. link\nInvited talk, Kinetic and Hydrodynamic Descriptions in Collective Behavior, Granada, Spain, 7–9 November 2022. link\nInvited talk, HYKE Meeting 2022, Seoul, Korea, 29 August 2022. link\nWorkshop, BI.discrete22: Numerics and Analysis of (Stochastic) Fluids, Bielefeld, Germany, 22–24 August 2022. link\nResearch stay, Bielefeld University, Bielefeld, Germany, 19 June–28 August 2022. IRTG Program. Host: Prof. Lubomir Banas.\nPoster presentation, Ninth Bielefeld–SNU Joint Workshop in Mathematics, 18–20 May 2022. link\n\n\n\n\n2021\n\n\nSummer school, Virtual Summer School on Kinetic and Fluid Equations for Collective Dynamics, Online, 23–26 August 2021. link\nWorkshop, HY–PDE Workshop 2021, Online, 26–28 May 2021. link"
+  },
+  {
+    "objectID": "index.html#academic-background",
+    "href": "index.html#academic-background",
+    "title": "Jaeyoung Yoon",
+    "section": "Academic background",
+    "text": "Academic background\n\nHumboldt Postdoctoral Research Fellow, Department of Mathematics, Technical University of Munich\nSep 2024–Aug 2026. Mentor: Prof. Christian Kuehn.\nM.S. & Ph.D. in Mathematics, Department of Mathematical Sciences, Seoul National University\nSep 2020–Aug 2024. Advisor: Prof. Seung-Yeal Ha.\nB.S. in Mathematics, Department of Mathematics, Ewha Womans University\nMar 2016–Aug 2020.\n\n\nLast updated: 4 June 2026"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jaeyoung Yoon",
+    "section": "Research interests",
+    "text": "Research interests\n\nCollective dynamics\nDynamical systems on networks\nMathematical aspects of machine learning dynamics\nConsensus-based optimization"
+  },
+  {
+    "objectID": "index.html#academic-background-1",
+    "href": "index.html#academic-background-1",
+    "title": "Jaeyoung Yoon",
+    "section": "Academic background",
+    "text": "Academic background"
+  },
+  {
+    "objectID": "index.html#academic-background-2",
+    "href": "index.html#academic-background-2",
+    "title": "Jaeyoung Yoon",
+    "section": "Academic background",
+    "text": "Academic background\n\nHumboldt Postdoctoral Research Fellow, Technical University of Munich\nSep 2024–Aug 2026. Mentor: Prof. Christian Kuehn.\nM.S. & Ph.D. in Mathematics, Seoul National University\nSep 2020–Aug 2024. Advisor: Prof. Seung-Yeal Ha.\nB.S. in Mathematics, Ewha Womans University\nMar 2016–Aug 2020."
   }
 ]
