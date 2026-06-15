@@ -1,5 +1,5 @@
 ---
-title: "Jaeyoung Yoon"
+title: "Jaeyoung Yoon (윤재영)"
 ---
 
 Welcome to my webpage!
@@ -28,4 +28,4 @@ My funding is based on Alexander von Humboldt fellowship (Sep 2024-Aug 2026).
 
 <br>
 
-[Last updated: 4 June 2026]{.last-updated}
+[Last updated: 14 June 2026]{.last-updated}

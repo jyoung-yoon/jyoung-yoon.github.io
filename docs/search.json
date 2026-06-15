@@ -9,23 +9,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jaeyoung Yoon",
+    "title": "Jaeyoung Yoon (윤재영)",
     "section": "",
     "text": "Welcome to my webpage!\nI am a postdoctoral researcher at Technical University of Munich (TUM) in Germany since September 2024. I am studying in the research group “Multiscale and Stochastic Dynamics” led by Prof. Christian Kuehn.\nMy funding is based on Alexander von Humboldt fellowship (Sep 2024-Aug 2026)."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Jaeyoung Yoon",
+    "title": "Jaeyoung Yoon (윤재영)",
     "section": "Research interests",
     "text": "Research interests\n\nCollective dynamics\nDynamical systems on networks\nMathematical aspects of machine learning dynamics\nConsensus-based optimization"
   },
   {
     "objectID": "index.html#academic-background",
     "href": "index.html#academic-background",
-    "title": "Jaeyoung Yoon",
+    "title": "Jaeyoung Yoon (윤재영)",
     "section": "Academic background",
-    "text": "Academic background\n\nHumboldt Postdoctoral Research Fellow, Department of Mathematics, Technical University of Munich\nSep 2024–Aug 2026. Mentor: Prof. Christian Kuehn.\nM.S. & Ph.D. in Mathematics, Department of Mathematical Sciences, Seoul National University\nSep 2020–Aug 2024. Advisor: Prof. Seung-Yeal Ha.\nB.S. in Mathematics, Department of Mathematics, Ewha Womans University\nMar 2016–Aug 2020.\n\n\nLast updated: 4 June 2026"
+    "text": "Academic background\n\nHumboldt Postdoctoral Research Fellow, Department of Mathematics, Technical University of Munich\nSep 2024–Aug 2026. Mentor: Prof. Christian Kuehn.\nM.S. & Ph.D. in Mathematics, Department of Mathematical Sciences, Seoul National University\nSep 2020–Aug 2024. Advisor: Prof. Seung-Yeal Ha.\nB.S. in Mathematics, Department of Mathematics, Ewha Womans University\nMar 2016–Aug 2020.\n\n\nLast updated: 14 June 2026"
   },
   {
     "objectID": "contact.html",
@@ -95,14 +95,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Spectral Selection in Symmetric Self-Attention Dynamics (with C. Kuehn). Under review. arXiv\nStochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces (with S. Cerrai, Q. Li, and A. Nair). Under review. arXiv\nStability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation (with C. Kuehn). Under review. arXiv\nExistence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport (with S.-Y. Ha, G. Hwang, and P. Thieullen). Under review. arXiv\nAsymptotic Regimes of Self-Attention Dynamics (with C. Kuehn). Working paper.\nPropagation in Random Space for Cucker–Smale Models: On the Role of Flocking and Random Batch Method (with Z. Huang and Y. Wang). Working paper."
+    "text": "Spectral Selection in Symmetric Self-Attention Dynamics (with C. Kuehn). Under review. arXiv\nStochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces (with S. Cerrai, Q. Li, and A. Nair). Under review. arXiv\nStability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation (with C. Kuehn). Under review. arXiv\nExistence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport (with S.-Y. Ha, G. Hwang, and P. Thieullen). Under review. arXiv\nAsymptotic Regimes of Self-Attention Dynamics (with C. Kuehn). Working paper.\nPropagation in Random Space for Cucker–Smale Models: On the Role of Flocking and Random Batch Method (with Z. Huang and Y. Wang). Working paper.\nMathematical analysis for Consensus-Based Optimization on Sobolev spaces (with M. Fornasier, F. Mattesini and B. Wohlmuth). Working paper."
   },
   {
     "objectID": "publications.html#preprints-and-working-papers",
     "href": "publications.html#preprints-and-working-papers",
     "title": "Publications",
     "section": "",
-    "text": "Spectral Selection in Symmetric Self-Attention Dynamics (with C. Kuehn). Under review. arXiv\nStochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces (with S. Cerrai, Q. Li, and A. Nair). Under review. arXiv\nStability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation (with C. Kuehn). Under review. arXiv\nExistence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport (with S.-Y. Ha, G. Hwang, and P. Thieullen). Under review. arXiv\nAsymptotic Regimes of Self-Attention Dynamics (with C. Kuehn). Working paper.\nPropagation in Random Space for Cucker–Smale Models: On the Role of Flocking and Random Batch Method (with Z. Huang and Y. Wang). Working paper."
+    "text": "Spectral Selection in Symmetric Self-Attention Dynamics (with C. Kuehn). Under review. arXiv\nStochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces (with S. Cerrai, Q. Li, and A. Nair). Under review. arXiv\nStability of Phase-Locked States in Signed Kuramoto Networks: Structure versus Adaptation (with C. Kuehn). Under review. arXiv\nExistence of periodic measure-valued solutions to the nonlocal continuity equation via optimal transport (with S.-Y. Ha, G. Hwang, and P. Thieullen). Under review. arXiv\nAsymptotic Regimes of Self-Attention Dynamics (with C. Kuehn). Working paper.\nPropagation in Random Space for Cucker–Smale Models: On the Role of Flocking and Random Batch Method (with Z. Huang and Y. Wang). Working paper.\nMathematical analysis for Consensus-Based Optimization on Sobolev spaces (with M. Fornasier, F. Mattesini and B. Wohlmuth). Working paper."
   },
   {
     "objectID": "publications.html#publications",

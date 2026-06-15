@@ -26,6 +26,9 @@ title: "Publications"
 1. **Propagation in Random Space for Cucker--Smale Models: On the Role of Flocking and Random Batch Method** (with Z. Huang and Y. Wang).
    Working paper.
 
+1. **Mathematical analysis for Consensus-Based Optimization on Sobolev spaces** (with M. Fornasier, F. Mattesini and B. Wohlmuth).
+   Working paper.
+
 ## Publications
 
 1. **CBO algorithm with average drift and applications to portfolio optimization** (with H.-O. Bae, S.-Y. Ha, C. Min, and J. Yoo).
