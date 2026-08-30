@@ -4,9 +4,7 @@ title: "Jaeyoung Yoon (윤재영)"
 
 Welcome to my webpage!
 
-I am a postdoctoral researcher at Technical University of Munich (TUM) in Germany since September 2024. I am studying in the research group "Multiscale and Stochastic Dynamics" led by Prof. Christian Kuehn.
-
-My funding is based on Alexander von Humboldt fellowship (Sep 2024-Aug 2026).
+I am an assistant professor at Konkuk university in Korea since September 2026.
 
 ## Research interests
 
@@ -28,4 +26,4 @@ My funding is based on Alexander von Humboldt fellowship (Sep 2024-Aug 2026).
 
 <br>
 
-[Last updated: 14 June 2026]{.last-updated}
+[Last updated: 30 August 2026]{.last-updated}
