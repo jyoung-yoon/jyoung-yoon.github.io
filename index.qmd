@@ -4,14 +4,16 @@ title: "Jaeyoung Yoon (윤재영)"
 
 Welcome to my webpage!
 
-I am an assistant professor at Konkuk university in Korea since September 2026.
+I am an assistant professor at Konkuk university in Korea since September 2026. My research focuses on dynamical systems, collective dynamics, and mathematical aspects of machine learning. I am particularly interested in understanding complex systems through differential equations and mathematical analysis.
 
+<!--
 ## Research interests
 
 - Collective dynamics
 - Dynamical systems on networks
 - Mathematical aspects of machine learning dynamics
 - Consensus-based optimization
+-->
 
 ## Academic background
 
