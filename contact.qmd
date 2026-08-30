@@ -6,8 +6,8 @@ title: "Contact"
 
 **Jaeyoung Yoon**
 
-Department of Mathematics  
-Konkuk University
+Department of Mathematics<br>
+Konkuk University<br>
 Seoul 05029, Republic of Korea
 
 Email: yoonj [at] konkuk [dot] ac [dot] kr, wodud1516 [at] gmail [dot] com
